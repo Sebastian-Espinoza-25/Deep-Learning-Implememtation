@@ -27,3 +27,6 @@ __pycache__/
 
 # Allow confusion matrix figure
 !reports/figures/confusion_matrix.png
+
+# Allow playera.jpeg image
+!playera.jpeg

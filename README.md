@@ -11,7 +11,7 @@ El objetivo es entrenar un modelo de **clasificación de prendas de vestir** uti
 **Autor:** Param Aggarwal  
 **Licencia:** MIT  
 **Tamaño:** ~600 MB  
-**Contenido:** 44,000 imágenes de productos de moda con etiquetas como *Tshirts, Shirts, Shoes, Watches, Handbags, Tops, Heels, Sunglasses, Kurtas* y más.
+**Contenido:** 4,400 imágenes de productos de moda con etiquetas como *Tshirts, Shirts, Shoes, Watches, Handbags, Tops, Heels, Sunglasses, Kurtas* y más.
 
 ### Descarga del dataset
 
