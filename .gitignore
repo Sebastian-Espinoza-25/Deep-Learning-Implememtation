@@ -1,0 +1,29 @@
+# Datasets and outputs
+data/raw/fashion_small/images/
+data/raw/fashion_small/myntradataset/
+data/processed/fashion_kaggle_small/
+*.zip
+*.tar
+*.gz
+
+# Image previews
+*.jpg
+*.jpeg
+*.png
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE / environment
+.env
+.venv
+.deepL/
+
+# Allow confusion matrix figure
+!reports/figures/confusion_matrix.png
